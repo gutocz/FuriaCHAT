@@ -1,6 +1,7 @@
 # 🦁 FuriaCHAT
 
 Este é um chatbot desenvolvido para fãs da FURIA Esports! Ele interpreta mensagens em linguagem natural e responde com informações sobre o time, como próximos jogos, elenco, histórico e muito mais.
+[Link do site](https://furia-chat-front.vercel.app/)
 
 ## 💾 Link dos repositórios
 [Backend](https://github.com/gutocz/FuriaCHATBack)
